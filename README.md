@@ -6,7 +6,7 @@ Software Java developer and Automation Test Engineer
 
 I am a System Engineer with 3 years of experience in backend development and automation testing. My expertise includes designing and implementing scalable and efficient backend systems, working with a variety of programming languages and frameworks, and ensuring the smooth integration of front-end components. I have a solid understanding of software development principles, and I am adept at solving complex problems and optimizing system performance.
 
-I also have hands-on experience in automation testing, where I’ve developed and maintained test automation frameworks, written robust test scripts for APIs and UI components, and implemented continuous testing practices using tools like Selenium, Postman, and RestAssured. My focus is on ensuring software quality, early bug detection, and improving delivery speed through effective test coverage.
+I also have hands-on experience in automation testing, where I’ve developed and maintained test automation frameworks, written robust test scripts for APIs and UI components, and implemented continuous testing practices using tools like Selenium, Junit,Postman, Playwright, Cucumber,Cypress, and RestAssured. My focus is on ensuring software quality, early bug detection, and improving delivery speed through effective test coverage.
 
 I possess conversational proficiency in English, which allows me to effectively communicate and collaborate with international teams and stakeholders. My goal is to continuously improve my skills and contribute to innovative projects that push the boundaries of technology.
 
