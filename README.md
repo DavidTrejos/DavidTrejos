@@ -12,7 +12,7 @@ I possess conversational proficiency in English, which allows me to effectively 
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [davidtrejoscortes@gmail.com](mailto:davidtrejoscortes@gmail.com)
-* 🚀  I'm currently working on [Linktic](http://https://linktic.com/)
+* 🚀  I'm currently working on [Parameta]([http://https://linktic.com/](https://www.parameta.co/))
 * 🧠  I'm learning Deep Automation testing
 * 🤝  I'm open to collaborating on Difference open source projects
 
